@@ -37,7 +37,6 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
-![WhatsApp Image 2025-10-10 at 21 13 34_d8860c64](https://github.com/user-attachments/assets/8b6bba29-7319-45bc-99f2-64395086d736)
 
 ![WhatsApp Image 2025-10-10 at 21 13 34_71c7b6ac](https://github.com/user-attachments/assets/9c86c462-d37f-442c-85f7-593e5b339cbd)
 
@@ -57,6 +56,7 @@ Rectifier with filter:
 WAVEFORM:
 
 Half wave rectifier with filter:
+![WhatsApp Image 2025-10-10 at 21 13 34_d8860c64](https://github.com/user-attachments/assets/8b6bba29-7319-45bc-99f2-64395086d736)
 
 
 Full wave rectifier without filter:
